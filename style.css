@@ -1,0 +1,41 @@
+.tw-c-background-base {
+    background-color: #9147ff!important;
+}
+
+body {
+    background-color: #d9d9de !important;
+}
+
+.top-nav__menu div {
+    background-color: #9147ff!important;
+}
+
+.navigation-link, .top-nav__external-link, .tw-icon__svg {
+    color: #fff !important;
+}
+
+.tw-relative input {
+    background: #fff !important;
+}
+
+.side-nav__scrollable_content {
+    background: rgb(145,70,255) !important;
+    background: linear-gradient(245deg, rgba(145,70,255,1) 0%, rgba(255,237,133,1) 100%) !important;
+}
+
+.tw-button-icon {
+    background-color: #9147ff!important;
+}
+
+.tw-core-button-label-text {
+    color: #9147ff!important;
+}
+
+.tw-c-text-followers {
+    color: #9147ff!important;
+    padding-right: 8px !important;
+}
+
+.tw-c-text-live {
+    padding-right: 8px !important;
+}
