@@ -19,8 +19,12 @@ body {
 }
 
 .side-nav__scrollable_content {
+    /* First */
+    /* background: rgb(145,70,255) !important;
+    background: linear-gradient(245deg, rgba(145,70,255,1) 0%, rgba(255,237,133,1) 100%) !important; */
+    /* Second */
     background: rgb(145,70,255) !important;
-    background: linear-gradient(245deg, rgba(145,70,255,1) 0%, rgba(255,237,133,1) 100%) !important;
+    background: linear-gradient(180deg, rgba(145,70,255,1) 0%, rgba(255,237,133,1) 100%) !important;
 }
 
 .tw-button-icon {
